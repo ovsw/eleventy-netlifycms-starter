@@ -12,6 +12,8 @@ tags:
 ---
 # This is a Heading h1
 
+![swing buggy ride](/static/img/swing-buggy-ride.jpg "Swing Buggy Ride")
+
 ## This is a Heading h2
 
 ###### This is a Heading h6
